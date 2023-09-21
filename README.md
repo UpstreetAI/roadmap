@@ -33,6 +33,13 @@ Users can play the Upstreet Metagame
     - Combat
     - "BR" Director
     - Reward system
+
+## Generative Agents
+
+Users can drag and drop NPCs into the world, give them personalities and let them roam
+
+    - Subscription system
+
     
 ## User Interface
 
@@ -57,3 +64,7 @@ This work may be performed in parallel to core development by interested parties
 - World
     - Terraforming
     - Biomes
+ 
+- SDK Development
+    - Update Generative Agents SDK
+    - Documentation and Examples
